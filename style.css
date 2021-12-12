@@ -1,0 +1,57 @@
+body{
+margin: 0;
+padding: 0;
+background: #000;
+background-image: url("https://cdn.discordapp.com/attachments/910156261063024650/919526107760439296/EZ_JINISH.jpg");
+}
+.img{
+text-align: center;
+}
+.btn{
+display: box;
+border: 2px solid #3E00FF;
+font-size: 16px;
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: aliceblue;
+}
+.btn:hover{
+background: #3E00FF;
+color: #000;
+}
+.btn2{
+display: box;
+border: 1px solid #3E00FF;
+font-size: 16px;
+padding: 16px 30px;
+border-radius: 30px;
+background: #3E00FF;
+color: aliceblue;
+}
+.btn2:hover{
+background: none;
+color: #FFF;
+}
+.paragraph{
+font-family: "Moon";
+color: aliceblue;
+}
+.file{
+  display: box;
+border: 2px solid #3E00FF;
+font-size: 16px;
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: aliceblue;
+}
+.kaer{
+  display: box;
+border: 2px solid #3E00FF;
+font-size: 16px;
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: aliceblue;
+}
